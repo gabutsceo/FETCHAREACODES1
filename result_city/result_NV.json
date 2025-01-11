@@ -1,0 +1,49 @@
+{
+    "775": [
+        "Alamo",
+        "Battle Mountain",
+        "Beatty",
+        "Caliente",
+        "Carlin",
+        "Carson City",
+        "Dayton",
+        "Elko",
+        "Ely",
+        "Eureka",
+        "Fallon",
+        "Fernley",
+        "Gardnerville",
+        "Goldfield",
+        "Hawthorne",
+        "Incline Village",
+        "Jackpot",
+        "Lovelock",
+        "Minden",
+        "Pahrump",
+        "Pioche",
+        "Reno",
+        "Silver Springs",
+        "Smith",
+        "Sparks",
+        "Spring Creek",
+        "Sun Valley",
+        "Tonopah",
+        "Verdi",
+        "Wells",
+        "West Wendover",
+        "Winnemucca",
+        "Yerington"
+    ],
+    "702": [
+        "Boulder City",
+        "Bunkerville",
+        "Henderson",
+        "Las Vegas",
+        "Laughlin",
+        "Mesquite",
+        "North Las Vegas"
+    ],
+    "725": [
+        "Las Vegas"
+    ]
+}
